@@ -1,2 +1,29 @@
+
 # NITJ-Batch-2k19 Info-App
-This is a database management  application that uses Ms Excel file to get input data and then give the output as a pop message based on roll number of the student serached by the user. This application also deals with the incorrect inputs by the user and the out of bound cases. The GUI to this application is developed using Python tkinter library. The other module used in this project is openpyxl module to work with .xlsx sheet.
+This is a GUI based desktop application which is used to retrieve students' information of batch-2k19 stored in MySQL database schema.
+## Application Screenshot
+![Screenshot](https://raw.githubusercontent.com/sanju6890/NITJ-Batch-2k19-Info-App/master/App%20Screenshot.png)
+
+    
+## Features
+
+- Search box to search the students' information
+- Display screen to show the required information
+- Search by Roll Number (Indivial Information)
+- Search by Department/Branch (Branch-wise Information)
+
+  
+## Tech Stack
+
+**🖥 Frontend:** Python tkinter
+
+**🔃 Connection:** Python mysql.connector module
+
+**📂 Database:** MySQL
+
+  
+## Author
+
+- [@sanju6890](https://www.github.com/sanju6890)
+
+  
