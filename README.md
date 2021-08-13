@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/sanju6890/NITJ-Batch-2k19-Info-App/blob/3241e78da578a5edfaca8f282780275d7e6a4625/App_icon.ico)
 # NITJ-Batch-2k19 Info-App
 This is a GUI based desktop application which is used to retrieve students' information of batch-2k19 stored in MySQL database schema.
 ## Application Screenshot
