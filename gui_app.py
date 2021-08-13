@@ -10,6 +10,7 @@ mydb = mysql.connector.connect(
 
 root=Tk()
 root.title("Student Info")
+root.iconbitmap('App_icon.ico')
 root.geometry("1920x1080")
 root.configure(bg='cyan2')
 
